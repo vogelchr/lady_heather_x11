@@ -1,3 +1,13 @@
+*****************************************************************************
+***                                                                       ***
+***  Lady Heather's Disciplined Oscillator Control Program                ***
+***  (c) Mark S. Sims      http://www.ke5fx.com/heather/readme.htm        ***
+***                                                                       ***
+***  This repository on github is not the official distribution channel   ***
+***  please go to Mark's website for his original version!                ***
+***                                                                       ***
+*****************************************************************************
+
 Lady Heather Version 5.0 (with Linux and macOS (OS/X) support)
 
 To use this program on Linux and macOS:
